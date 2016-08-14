@@ -2,7 +2,7 @@
 The MIT License (MIT)
 Copyright (c) Ultima Studios; Wyatt Miller (mill1159@mail.nmc.edu) 2014 - 2016
 
-Miller Physics Calculator 2016 v0.4 ALPHA (Kyoma's Nostalgia Drive)
+Miller Physics Calculator 2016 v0.4 ALPHA (Copericus)
 
 Holt/Merrill Physics books smooshed into one big physics calculator!
 This is open source to anyone but if you bought the program already compiled,
@@ -170,7 +170,7 @@ main:
 	}
 	else if(what == 4)
 	{
-	printf("\nMiller Physics Calculator v0.4 Kyoma's Nostalgia Drive\n");
+	printf("\nMiller Physics Calculator v0.4 Copernicus\n");
 	printf("Copyright (c) Ultima Studios; Wyatt Miller 2014-2016\n");
 	printf("Licensed by the MIT license.\n");
 	printf("Want to see changes? Look in the CHANGELOG.txt.\n");
