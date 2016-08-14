@@ -14,3 +14,5 @@ This works with both GCC and Clang compilers and works with both Linux and FreeB
 
 I am a budding programmer and still learning by my own motivation. If you find anything (bugs, improvements, etc.), email me which can be found [here.](https://github.com/wymillerlinux)
 
+Note: the man page (phycalc_man.txt) is supposed to be the Manual, I couldn't figure out how to place the Manual in there in a fashion like `less` or something of that matter
+
