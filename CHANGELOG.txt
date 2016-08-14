@@ -1,0 +1,27 @@
+CHANGELOG for Miller Physics Calculator
+Written by Ultima Studios; Wyatt Miller
+
+v0.4
+
++ Added a CHANGELOG.txt file. Howdy!
++ Added a LICENCE.txt file. Check it man.
++ Added a space to every nook and crany.
+
+v0.3
+
++ Added "Chapter 2"
++ Added the "Convert" option, although that isn't completed
++ Added a manual that goes in the "Manual" option, it's in text file called "phycalc_man.txt"
++ Filled in the "About" option
++ Filled in the source code description
++ Gave my project a codename: "Copernicus"
+
+
+v0.1
+
++ Birth of Copernicus
++ Added the "Calculate" option
++ Added the "Manual" option
++ Added the "About" option
++ Added the "Quit" option
+

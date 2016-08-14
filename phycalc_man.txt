@@ -1,0 +1,36 @@
+MANUAL FOR MILLER PHYSICS CALC
+
+Hello and welcome to the manual for my physics calculator. I, Wyatt Miller, will guide you through
+on how to use this calculator. It's really simple and you shouldn't have any trouble working with
+said calculator.
+
+The calculator goes by a number system. What I mean by number system is that you'll see something
+like this:
+
+1. Calculate
+2. Convert
+3. Manual
+4. About
+5. Quit
+ENTER A NUMBER:
+
+You enter a number corresponding to the option.
+
+What comes up as you start the calculator is the main menu of the calculator, as shown above. 
+You choose what you want the calculator to do. For example, you enter the number 3, you encounter this
+lovely here manual! How neat is that?
+
+When the calculator tells you enter a number that has to do with an equation, like this:
+
+Enter the given distance in meters: 
+
+Just type the given number on your homework, lab, whatever it maybe. The answer will spat out
+at you in a floating decimal. Don't worry if you don't means, it just means a decimal with six
+decimal places. For example:
+
+Total calculated velocity in meters per second: 140.231003
+
+When you enter a number that isn't on the list, the program will return you back to the main menu.
+I find it annoying when you have to do something that's really tedious. Just me though...
+
+To exit this manual, press Ctrl+C to head back to the main menu!
