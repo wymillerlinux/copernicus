@@ -1,6 +1,12 @@
 CHANGELOG for Miller Physics Calculator
 Written by Ultima Studios; Wyatt Miller
 
+v0.5
++ Added a functional manual for FreeBSD, Linux, macOS (MacOSX), and WLS (Windows Linux Subsystem)
++ Fixed misc errors that were unheard of
+- Dropped support for Windows (CMD, Powershell, etc...)
+
+
 v0.4
 
 + Added a CHANGELOG.txt file. Howdy!
