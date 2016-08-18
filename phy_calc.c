@@ -93,8 +93,7 @@ main:
 			}
 			else if(chap2 == 4)
 			{
-				printf("\nI'm suposed to excute code here, don't know what's gonna be here
-				tho...\n");
+				printf("\nI'm suposed to excute code here, don't know what's gonna be here tho...\n");
 				return 0;
 			}
 			else
@@ -138,8 +137,7 @@ main:
 			goto main;
 		}
 		else if(chap == 12)
-		{...
-			int chap12;
+		{
 			//excute code
 			printf("Coming soon!");
 			goto main;
@@ -164,8 +162,7 @@ main:
 	}
 	else if(what == 3)
 	{
-	printf("\nThis is _supposed_ to be a manual, but, unfortuneatly, it has not been written yet.\n");
-	printf("The manual will come before 1.0 release...\n");
+	system("less phycalc_man.txt");
 	goto main;
 	}
 	else if(what == 4)
